@@ -1,1 +1,3 @@
 venv/*
+.ipynb_checkpoints/
+yamnet_1.tar/
